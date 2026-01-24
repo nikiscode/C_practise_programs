@@ -1,0 +1,44 @@
+Operators in C
+Operators are symbols used to perform operations on variables and values.
+1. Arithmetic Operators
+Used for mathematical calculations.
+Examples: addition, subtraction, multiplication, division, modulus
+2. Relational Operators
+Used to compare two values.
+Examples: equal to, not equal to, greater than, less than
+3. Logical Operators
+Used to combine conditions.
+Examples: AND, OR, NOT
+4. Assignment Operators
+Used to assign values to variables.
+Examples: equals, add and assign, subtract and assign
+5. Increment and Decrement Operators
+Used to increase or decrease a value by one.
+Examples: increment, decrement
+6. Bitwise Operators
+Used for bit-level operations.
+Examples: AND, OR, XOR, left shift, right shift
+7. Conditional Operator
+Used for decision making.
+Example: ternary operator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
