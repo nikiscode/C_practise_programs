@@ -1,4 +1,4 @@
-Structure of a C Program
+//Structure of a C Program
 A C program follows a fixed structure for proper execution.
 1. Documentation Section
 Used to describe the program.
