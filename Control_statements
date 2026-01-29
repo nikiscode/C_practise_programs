@@ -1,4 +1,4 @@
-Control Statements in C
+//Control Statements in C
 Control statements control the flow of execution in a C program.
 1. Decision Making Statements
 Used to make decisions based on conditions.
