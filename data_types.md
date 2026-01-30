@@ -1,4 +1,4 @@
- //Data Types in C
+//Data Types in C
 Data types specify the type of data that a variable can store.
 1. Basic Data Types
 Used to store simple values.
