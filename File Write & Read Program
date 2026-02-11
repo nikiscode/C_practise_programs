@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    FILE *fp;
+    char text[100];
+
+    fp = fopen("data.txt", "w");
+    printf("Enter text to store in file: ");
+    scanf(" %[^\n]", text);
+
+    fprintf(fp, "%s", text);
+    fclose(fp);
+
+    fp = fopen("data.txt", "r");
+    fgets(text, 100, fp);
+    printf("Data from file: %s", text);
+    fclose(fp);
+
+    return 0;
+}
