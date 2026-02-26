@@ -1,22 +1,23 @@
 //Introduction to C
-Structure of a C Program
-Keywords and Identifiers
-Data Types
-Variables and Constants
-Operators
-Input and Output
-Control Statements
-Functions
-Arrays
-Strings
-Pointers
-Structures
-Unions
-Enumerations
-Storage Classes
-File Handling
-Dynamic Memory Allocation
-Preprocessor Directives
+
+1.Structure of a C Program
+2.Keywords and Identifiers
+3.Data Types
+4.Variables and Constants
+5.Operators
+6.Input and Output
+7.Control Statements
+8.Functions
+9.Arrays
+10.Strings
+11.Pointers
+12.Structures
+13.Unions
+14.Enumerations
+15.Storage Classes
+16.File Handling
+17.Dynamic Memory Allocation
+18.Preprocessor Directives
 
 
 
