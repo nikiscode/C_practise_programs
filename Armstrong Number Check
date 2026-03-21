@@ -1,8 +1,11 @@
+
 //Armstrong number check
 #include <stdio.h>
+
 #include <math.h>
 int main() {
-    int num, original, remainder, result = 0, n = 0;
+   
+int num, original, remainder, result = 0, n = 0;
         printf("Enter number: ");
     scanf("%d", &num);
     original = num;
@@ -16,9 +19,11 @@ original = num;
         result += pow(remainder, n);
         original /= 10;
     }
-    if(result == num)
-        printf("Armstrong Number");
-    else
+  
+if(result == num)
+ printf("Armstrong Number");
+  
+else
         printf("Not an Armstrong Number");
     return 0;
 }
