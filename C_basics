@@ -1,10 +1,11 @@
 //Introduction to C and its topics
+
 1.Structure of a C Program
-2.Keywords and Identifiers
-3.Data Types
-4.Variables and Constants
-5.Operators
-6.Input and Output
+ 2.Keywords and Identifiers
+   3.Data Types
+    4.Variables and Constants
+      5.Operators
+       6.Input and Output
 7.Control Statements
 8.Functions
 9.Arrays
