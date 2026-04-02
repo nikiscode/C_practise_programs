@@ -1,6 +1,6 @@
 //Control Statements and its practice in c
-##Control statements control the flow of execution in a C program.
 
+##Control statements control the flow of execution in a C program.
 1. Decision Making Statements
 Used to make decisions based on conditions.
 Examples: if, if-else, else-if ladder, switch
