@@ -1,9 +1,7 @@
 //Read & Write program using c
-
 #include <stdio.h>
 int main() {
     FILE *fp;
-   
 char text[100];
  fp = fopen("data.txt", "w");
     printf("Enter text to store in file: ");
