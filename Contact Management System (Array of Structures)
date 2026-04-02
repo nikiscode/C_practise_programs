@@ -1,7 +1,5 @@
-
 //contact management system 
- 
-#include <stdio.h>
+ #include <stdio.h>
 #include <string.h>
 struct Contact {
     char name[50];
