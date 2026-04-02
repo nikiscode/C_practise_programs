@@ -1,7 +1,5 @@
-
 //Armstrong number check
 #include <stdio.h>
-
 #include <math.h>
 int main() {
    
