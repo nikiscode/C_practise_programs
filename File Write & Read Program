@@ -1,4 +1,3 @@
-
 //Read & Write program using c
 #include <stdio.h>
 int main() {
